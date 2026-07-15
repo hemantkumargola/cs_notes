@@ -1,0 +1,155 @@
+Basics (1–10)
+
+What is a Computer Network?
+What are the types of Computer Networks?
+What is LAN?
+What is MAN?
+What is WAN?
+What is PAN?
+What is a Client-Server Network?
+What is a Peer-to-Peer Network?
+What are Network Topologies?
+What are the advantages and disadvantages of Computer Networks?
+
+
+
+
+OSI Model (11–20)
+
+What is the OSI Model?
+Name all 7 layers of the OSI Model.
+Explain the function of each OSI layer.
+Which layer is responsible for routing?
+Which OSI layer provides encryption?
+Which OSI layer handles error detection?
+What is encapsulation and decapsulation?
+Difference between OSI and TCP/IP models.
+Which devices work on each OSI layer?
+Why is the OSI model important?
+
+
+
+TCP/IP Model (21–30)
+
+What is the TCP/IP Model?
+Explain the layers of the TCP/IP Model.
+Difference between TCP/IP and OSI.
+Why is TCP/IP widely used?
+What protocols belong to the Application layer?
+What protocols belong to the Transport layer?
+What protocols belong to the Internet layer?
+What protocols belong to the Network Access layer?
+How does data travel in the TCP/IP model?
+Explain packet encapsulation.
+
+
+
+IP Addressing (31–40)
+
+What is an IP Address?
+Difference between IPv4 and IPv6.
+What is a Public IP Address?
+What is a Private IP Address?
+Difference between Static and Dynamic IP addresses.
+What is a Subnet Mask?
+What is CIDR?
+What is a Default Gateway?
+What is a Loopback Address?
+What is APIPA?
+
+
+
+TCP & UDP (41–50)
+
+What is TCP?
+What is UDP?
+Difference between TCP and UDP.
+Explain the TCP Three-Way Handshake.
+Explain the TCP Four-Way Handshake.
+What is Flow Control?
+What is Congestion Control?
+What is the Sliding Window Protocol?
+What are TCP Flags?
+When should TCP and UDP be used?
+
+
+
+Network Protocols (51–60)
+
+What is HTTP?
+What is HTTPS?
+Difference between HTTP and HTTPS.
+What is FTP?
+What is SMTP?
+What is POP3?
+What is IMAP?
+What is SSH?
+What is Telnet?
+What is ICMP?
+
+
+
+DNS, DHCP & NAT (61–70)
+
+What is DNS?
+How does DNS work?
+What is DHCP?
+Explain the DHCP DORA Process.
+What is NAT?
+Types of NAT.
+Difference between DNS and DHCP.
+What is ARP?
+Difference between ARP and RARP.
+What is MAC Address?
+
+
+
+Routing & Switching (71–80)
+
+What is Routing?
+Difference between Static and Dynamic Routing.
+What is a Routing Table?
+What is a Router?
+What is a Switch?
+Difference between Hub, Switch, and Router.
+What is VLAN?
+What is a Broadcast Domain?
+What is a Collision Domain?
+Difference between Layer-2 and Layer-3 Switches.
+
+
+
+
+
+
+Security (81–90)
+
+What is a Firewall?
+What is a Proxy Server?
+What is VPN?
+What is SSL?
+What is TLS?
+Difference between SSL and TLS.
+What is a Digital Certificate?
+What is a Digital Signature?
+What is IPSec?
+What is Network Security?
+
+
+
+
+
+
+
+Interview Scenarios & Advanced (91–100)
+
+What happens when you type www.google.com in your browser?
+Explain the complete journey of a packet from client to server.
+Why is HTTPS more secure than HTTP?
+Why is TCP considered reliable?
+What is MTU?
+What is QoS (Quality of Service)?
+What is Packet Switching?
+What is Circuit Switching?
+How would you troubleshoot if the internet is not working?
+Explain a networking project or real-world networking problem you have worked on.
