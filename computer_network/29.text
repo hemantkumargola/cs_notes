@@ -1,0 +1,23 @@
+How Does Data Travel in the TCP/IP Model? (Interview Answer)
+
+Data travels from the sender's Application layer down to the Network Access layer, then across the network, and up from the receiver's Network Access layer to the Application layer.
+
+Step-by-Step Process
+
+1 Application Layer
+The application (e.g., a web browser) creates the data.
+
+2 Transport Layer
+TCP or UDP breaks the data into segments and adds port numbers.
+
+3 Internet Layer
+IP adds the source and destination IP addresses and routes the packet.
+
+4 Network Access Layer
+The packet is converted into frames and sent over Ethernet or Wi-Fi.
+
+4 Receiver Side
+The data moves back up:
+Network Access Layer → Internet Layer → Transport Layer → Application Layer.
+
+The application receives the original data.
