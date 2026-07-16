@@ -1,0 +1,19 @@
+TCP/IP Model (21–30)  
+
+What is the TCP/IP Model? (Interview Answer – Short)
+
+Answer:
+
+The TCP/IP Model (Transmission Control Protocol/Internet Protocol) is a 4-layer networking model used for communication over the internet. It defines how data is transmitted from one device to another using a set of communication protocols.
+
+The 4 Layers are:
+
+Application Layer – Provides network services to applications (HTTP, FTP, SMTP, DNS).
+Transport Layer – Ensures reliable data delivery using TCP or fast communication using UDP.
+Internet Layer – Handles logical addressing and routing using IP.
+Network Access Layer – Manages data transmission over the physical network (Ethernet, Wi-Fi).
+
+
+One-Line Interview Answer
+
+The TCP/IP Model is a 4-layer protocol suite that defines how devices communicate and exchange data over the internet.

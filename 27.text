@@ -1,0 +1,11 @@
+Internet Layer Protocols (Interview Answer)
+
+The Internet Layer is responsible for logical addressing, routing, and delivering packets from the source to the destination.
+
+
+
+Common Protocols:
+
+IP (Internet Protocol) – Provides logical addressing and routing.
+ICMP (Internet Control Message Protocol) – Used for error reporting and diagnostics (e.g., ping).
+ARP (Address Resolution Protocol) – Converts an IP address into a MAC address (commonly associated with the network interface).
