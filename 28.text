@@ -1,8 +1,0 @@
-Network Access Layer Protocols (Interview Answer)
-
-The Network Access Layer is responsible for transmitting data over the physical network and handling communication between devices on the same network.
-
-Common Protocols/Technologies:
-Ethernet – Wired network communication.
-Wi-Fi (IEEE 802.11) – Wireless network communication.
-PPP (Point-to-Point Protocol) – Direct communication between two devices.
