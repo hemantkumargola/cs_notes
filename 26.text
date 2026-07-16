@@ -1,7 +1,0 @@
-Transport Layer Protocols (Short Interview Answer)
-
-The Transport Layer provides end-to-end communication and ensures data is delivered correctly between devices
-
-Common Protocols:
-TCP (Transmission Control Protocol) – Reliable, connection-oriented communication.
-UDP (User Datagram Protocol) – Fast, connectionless communication.
