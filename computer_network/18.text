@@ -1,0 +1,37 @@
+Difference Between OSI and TCP/IP Models (Point-wise for Interview)
+Number of Layers
+
+OSI: Has 7 layers.
+TCP/IP: Has 4 layers.
+
+Developed By
+OSI: Developed by ISO (International Organization for Standardization).
+TCP/IP: Developed by DARPA (Department of Defense).
+
+Model Type
+OSI: It is a reference model.
+TCP/IP: It is a protocol suite (protocol model).
+
+Purpose
+OSI: Used for learning, designing, and troubleshooting networks.
+TCP/IP: Used for actual communication on the Internet.
+
+Approach
+OSI: Follows a theoretical approach.
+TCP/IP: Follows a practical approach.
+
+Session & Presentation Layers
+OSI: Has separate Session and Presentation layers.
+TCP/IP: Combines both into the Application layer.
+
+Physical & Data Link Layers
+OSI: Has separate Physical and Data Link layers.
+TCP/IP: Combines both into the Network Access (Link) layer.
+
+Protocols
+OSI: Does not define specific protocols.
+TCP/IP: Defines protocols such as TCP, IP, HTTP, FTP, SMTP, and DNS.
+
+Usage
+OSI: Mainly used in education and networking concepts.
+TCP/IP: Used in real-world networking and the Internet.

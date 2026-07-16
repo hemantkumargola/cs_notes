@@ -1,0 +1,17 @@
+Which devices work on each OSI layer?
+
+Interview One-Liners
+
+Application Layer (L7): Gateway, Proxy Server
+
+Presentation Layer (L6): Gateway
+
+Session Layer (L5): Gateway
+
+Transport Layer (L4): Firewall, Load Balancer, Gateway
+
+Network Layer (L3): Router, Layer 3 Switch
+
+Data Link Layer (L2): Switch, Bridge, NIC
+
+Physical Layer (L1): Hub, Repeater, Cables

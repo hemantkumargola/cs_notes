@@ -1,0 +1,9 @@
+Q: Which OSI layer handles error detection?
+
+Answer:
+
+The Data Link Layer (Layer 2) is primarily responsible for error detection during data transmission within the same network. It checks whether data frames are corrupted using techniques like CRC (Cyclic Redundancy Check).
+
+Short Answer (1 Line)
+
+The Data Link Layer (Layer 2) handles error detection using CRC and other error-checking methods.

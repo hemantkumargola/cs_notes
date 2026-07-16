@@ -1,0 +1,53 @@
+# OSI Model – Functions of Each Layer (Short Notes)
+
+## 1. Application Layer (Layer 7)
+
+**Definition:** Provides network services directly to end-user applications like web browsers and email.
+
+**Examples:** HTTP, HTTPS, FTP, SMTP, DNS
+
+---
+
+## 2. Presentation Layer (Layer 6)
+
+**Definition:** Translates data, encrypts/decrypts it, and compresses/decompresses it before transmission.
+
+**Examples:** SSL/TLS, JPEG, MP3
+
+---
+
+## 3. Session Layer (Layer 5)
+
+**Definition:** Establishes, manages, and terminates communication sessions between devices.
+
+---
+
+## 4. Transport Layer (Layer 4)
+
+**Definition:** Ensures reliable end-to-end data delivery, error checking, and flow control using TCP or UDP.
+
+**Protocols:** TCP, UDP
+
+---
+
+## 5. Network Layer (Layer 3)
+
+**Definition:** Routes data packets between networks using IP addresses and selects the best path.
+
+**Device:** Router
+
+---
+
+## 6. Data Link Layer (Layer 2)
+
+**Definition:** Transfers data frames within the same network using MAC addresses and performs error detection.
+
+**Device:** Switch
+
+---
+
+## 7. Physical Layer (Layer 1)
+
+**Definition:** Transmits raw bits through physical media like cables, fiber optics, or wireless signals.
+
+**Devices:** Hub, Repeater
