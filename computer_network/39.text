@@ -1,0 +1,8 @@
+What is a Loopback Address? (Interview Answer - Short)
+
+Definition:
+A Loopback Address is a special IP address used to test the network software on the same computer without sending data over the network.
+
+One-line Answer:
+
+A loopback address is a special IP address (127.0.0.1) used to test network communication on the same device.

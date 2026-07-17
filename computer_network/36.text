@@ -1,0 +1,11 @@
+### What is a Subnet Mask? (Easy Interview Answer)
+
+**Answer:**
+
+A **Subnet Mask** is a number that **separates the network part and the host part of an IP address**. It helps devices identify whether another device is on the same network or a different network.
+
+**Example:** `255.255.255.0`
+
+### Short Interview Answer
+
+> **A Subnet Mask separates the network and host portions of an IP address and helps route data correctly within a network.**

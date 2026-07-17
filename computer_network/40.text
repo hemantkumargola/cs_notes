@@ -1,0 +1,14 @@
+What is APIPA? (Interview Answer – Short)
+
+Definition:
+APIPA (Automatic Private IP Addressing) is a feature that automatically assigns an IP address to a computer when a DHCP server is unavailable.
+
+One-line Answer:
+
+APIPA automatically assigns an IP address (169.254.x.x) when the DHCP server is not available.
+
+Key Point for Interview:
+
+IP Range: 169.254.0.1 to 169.254.255.254
+Used only for communication within the local network.
+No Internet access through APIPA.

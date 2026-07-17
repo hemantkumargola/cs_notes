@@ -1,0 +1,17 @@
+### Difference Between Static and Dynamic IP Addresses (Interview)
+
+* **Static IP Address** is fixed and does not change, whereas **Dynamic IP Address** changes automatically over time.
+
+* **Static IP** is manually assigned by the network administrator or ISP, whereas **Dynamic IP** is assigned automatically by a **DHCP server**.
+
+* **Static IP** is commonly used for servers, websites, and printers, whereas **Dynamic IP** is mainly used for home users and personal devices.
+
+* **Static IP** is more stable but usually costs more, whereas **Dynamic IP** is cost-effective and easier to manage.
+
+
+
+
+
+### Short Interview Answer
+
+> **A Static IP Address remains the same and is ideal for servers, while a Dynamic IP Address is assigned automatically by DHCP and may change over time, making it suitable for most home and office users.**

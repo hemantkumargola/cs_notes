@@ -1,0 +1,17 @@
+IP Addressing (31–40)
+   
+
+   What is an IP Address?
+
+   An IP Address is a unique address assigned to a device on a network. It identifies the device and enables communication by ensuring data reaches the correct destination.
+
+
+   Key Points for 
+   
+IP stands for Internet Protocol.
+Every device connected to a network has an IP address.
+It is used for identification and communication.
+
+There are two versions:
+IPv4 (32-bit) – e.g., 192.168.1.1
+IPv6 (128-bit) – e.g., 2001:db8::1

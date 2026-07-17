@@ -1,0 +1,19 @@
+# Difference Between IPv4 and IPv6 (Line by Line for Interview)
+
+
+
+* **IPv4 is a 32-bit address, whereas IPv6 is a 128-bit address.**
+
+* **IPv4 uses decimal numbers (e.g., `192.168.1.1`), whereas IPv6 uses hexadecimal numbers (e.g., `2001:db8::1`).**
+
+* **IPv4 provides about 4.3 billion unique addresses, whereas IPv6 provides almost unlimited addresses.**
+
+* **IPv4 supports broadcast communication, whereas IPv6 does not support broadcast and uses multicast instead.**
+
+* **IPv4 security (IPSec) is optional, whereas IPv6 has built-in IPSec support.**
+
+* **IPv4 requires manual configuration or DHCP, whereas IPv6 supports automatic address configuration.**
+
+* **IPv4 has a variable header size (20–60 bytes), whereas IPv6 has a fixed header size (40 bytes).**
+
+* **IPv4 is older and widely used, whereas IPv6 is the newer version designed to replace IPv4.**
